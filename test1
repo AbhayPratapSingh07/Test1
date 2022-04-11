@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!-- Our html starts here -->
+<html lang="en">
+<!-- Our head tag starts here --> 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robot" content="Index, Follow">
+    <meta name = "keywords" content = "Durgapur,Durgapur City,Pinnacle Infotech Solutions,Bengal, West Bengal">
+    <!--This is how you include external css-->
+    <link rel="StyleSheet" href="Abhay.Css">
+    <!--This is how you include external JavaScript-->
+    <!--<script src="Abhay.js"></script>-->
+    <title>Abhay</title>
+</head>
+<!-- Our body tag starts here --> 
+<body>
+   <h1>How I Met You Story</h1>   
+   <p>Hey! I am Abhay Pratap Singh.In this blog I will cover my short story of 7 unforgettable Days of my life.</p>
+   <img src ="First.jpg" alt="Started With a Rose" width="500" height="600">    
+   <img src ="Hug.jpeg" alt="Place of our First Hug" width="500" height="600">  
+   <img src ="Kiss.jpeg" alt="Place of our First Kiss" width="500" height="600">
+   <img src ="Love It.jpeg" alt="Beauty of PIS" width="500" height="600">
+   <img src ="My Fav.jpeg" alt="Place where we used to sit a lot" width="500" height="600">
+   <img src ="My Morning Be Like.jpeg" alt="Rabbits" width="500" height="600">
+   <img src ="Ready to sit one day.jpeg" alt="Place for Love Birds" width="500" height="600">
+   <img src ="You.jpeg" alt="Your Room" width="500" height="600">
+   <img src ="My Last Day In There.jpeg" alt="Thats me and that was my last day in Durgapur" width="500" height="600">
+
+</body>
+</html>
